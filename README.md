@@ -22,6 +22,17 @@ This repository is all about my practices with OpenCV, a powerful library for co
 - Cropping
 - Flipping
 
+### Exercise 3: Annotating Images
+   - Draw lines
+   - Draw circles
+   - Draw rectangles
+   - Add text
+
+### Exercised 4: Image Enhancement
+  - Arithmetic Operations like addition, multiplication
+  - Thresholding & Masking
+  - Bitwise Operations like OR, AND, XOR
+
 More exercises will be added over time. Stay tuned!
 
 ## Accessing `.ipynb` File through Colab
