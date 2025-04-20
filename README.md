@@ -41,6 +41,10 @@ This repository is all about my practices with OpenCV, a powerful library for co
    - color grade function on Live feed
    - Box Filtering, Laplacian Filtering
 
+### Exercise 7: Image Alignment
+   - Homography transformation of square to arbitrary quad
+   - ORB
+
 More exercises will be added over time. Stay tuned!
 
 ## Accessing `.ipynb` File through Colab
