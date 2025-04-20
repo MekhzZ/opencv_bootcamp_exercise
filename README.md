@@ -37,6 +37,9 @@ This repository is all about my practices with OpenCV, a powerful library for co
    - used cv2.VideoWriter() object to create and write video files
   - explored the fourcc Codec for video
 
+### Exercise 6: Image Filtering (Edge Detection)
+   - color grade function on Live feed
+
 More exercises will be added over time. Stay tuned!
 
 ## Accessing `.ipynb` File through Colab
