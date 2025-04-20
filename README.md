@@ -43,7 +43,7 @@ This repository is all about my practices with OpenCV, a powerful library for co
 
 ### Exercise 7: Image Alignment
    - Homography transformation of square to arbitrary quad
-   - ORB
+   - ORB(Oriented FAST and Rotated BRIEF) algorithm for key feature extraction
 
 More exercises will be added over time. Stay tuned!
 
