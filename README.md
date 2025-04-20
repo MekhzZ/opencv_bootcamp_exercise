@@ -33,6 +33,10 @@ This repository is all about my practices with OpenCV, a powerful library for co
   - Thresholding & Masking
   - Bitwise Operations like OR, AND, XOR
 
+### Exercise 5: Accessing and Writing Video
+   - used cv2.VideoWriter() object to create and write video files
+  - explored the fourcc Codec for video
+
 More exercises will be added over time. Stay tuned!
 
 ## Accessing `.ipynb` File through Colab
