@@ -39,6 +39,7 @@ This repository is all about my practices with OpenCV, a powerful library for co
 
 ### Exercise 6: Image Filtering (Edge Detection)
    - color grade function on Live feed
+   - Box Filtering, Laplacian Filtering
 
 More exercises will be added over time. Stay tuned!
 
