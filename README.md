@@ -45,6 +45,15 @@ This repository is all about my practices with OpenCV, a powerful library for co
    - Homography transformation of square to arbitrary quad
    - ORB(Oriented FAST and Rotated BRIEF) algorithm for key feature extraction
 
+### Exercise 8: Panorama
+   - use of cv2.Stitcher_create()
+   - deep dive into the working mechanism of cv2.Stitcher_create()
+   - exploration of DoG, SIFT, RANSAC algorithms and it's use in creating panorama
+
+### Exercise 9: High Dynamic Range(HDR)
+   - creation of HDR using multi light exposured images
+   - deep dive into the algorithms like Debevec Callibration Algorithm, Tonemapping
+
 More exercises will be added over time. Stay tuned!
 
 ## Accessing `.ipynb` File through Colab
