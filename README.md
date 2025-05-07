@@ -54,6 +54,10 @@ This repository is all about my practices with OpenCV, a powerful library for co
    - creation of HDR using multi light exposured images
    - deep dive into the algorithms like Debevec Callibration Algorithm, Tonemapping
 
+### Exercise 10: Object Tracking
+   - Tracking an object i.e car in our exercise using several algorithms available in opencv
+   - deep-dive into the certain algorithms like(KCF, GOTURN) with it's mathematics
+
 More exercises will be added over time. Stay tuned!
 
 ## Accessing `.ipynb` File through Colab
